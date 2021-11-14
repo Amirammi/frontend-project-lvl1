@@ -4,3 +4,4 @@
 [![Node.js CI](https://github.com/Amirammi/frontend-project-lvl1/actions/workflows/Linter.yml/badge.svg)](https://github.com/Amirammi/frontend-project-lvl1/actions/workflows/Linter.yml)
 [![asciicast](https://asciinema.org/a/446466.svg)](https://asciinema.org/a/446466)
 [![asciicast](https://asciinema.org/a/446507.svg)](https://asciinema.org/a/446507)
+[![asciicast](https://asciinema.org/a/449030.svg)](https://asciinema.org/a/449030)
