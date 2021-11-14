@@ -6,7 +6,7 @@ export default (rule, func) => {
   console.log(rule);
   for (let i = 0; i < 3; i += 1) {
     const [question, answer] = func();
-    console.log(`Question : ${question}`);
+    console.log(`Question: ${question}`);
     const userAnswer = readlineSync.question('Your answer: ');
     if (userAnswer === answer) {
       console.log('Correct!');
