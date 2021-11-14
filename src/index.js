@@ -11,7 +11,7 @@ export default (rule, func) => {
     if (userAnswer === answer) {
       console.log('Correct!');
     } else {
-      console.log(`'${userAnswer}' is wrong answer;(. Correct answer was '${answer}'.\nLet 's try again, ${name}!`);
+      console.log(`'${userAnswer}' is wrong answer;(. Correct answer was '${answer}'.\nLet's try again, ${name}!`);
       return;
     }
   }
