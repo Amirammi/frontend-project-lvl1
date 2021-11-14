@@ -6,6 +6,7 @@
 <li> Run the command: make install</li>
 <li> Run the command: npm link</li>
 </ol>
+<p> I hope, you will enjoy all of these games! </p>
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Amirammi/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Amirammi/frontend-project-lvl1/actions);
