@@ -22,13 +22,16 @@
     "type": "module",
     "jest": "^27.0.6",
     "dependencies": {
-        "eslint-plugin-jest": "^25.2.4",
         "readline-sync": "^1.4.10"
     },
     "devDependencies": {
-        "eslint": "^7.31.0",
+        "eslint": "^7.32.0",
+        "eslint-config-airbnb": "^19.0.0",
         "eslint-config-airbnb-base": "^14.2.1",
-        "eslint-plugin-import": "^2.25.2"
+        "eslint-plugin-import": "^2.25.3",
+        "eslint-plugin-jest": "^24.4.0",
+        "jest": "^27.0.6",
+        "prettier": "^2.3.2"
     },
     "bin": {
         "brain-games": "bin/brain-games.js",
